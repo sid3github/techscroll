@@ -42,6 +42,27 @@ body {
     color: #666;
 }
 
-.info-right{
+
+
+#info1 .info-right{
     margin-top: 100px;
+}
+
+#info2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#contact {
+    background: url('../images/apple.jpg') no-repeat;
+    padding: 40px;
+    color: #fff;
+    border-top: #222 7px solid;
+    border-bottom: #222 7px solid;
+    
+}
+
+
+footer {
+    padding: 35px;
 }
